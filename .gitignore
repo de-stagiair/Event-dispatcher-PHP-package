@@ -1,0 +1,5 @@
+/vendor/
+.idea
+index.php
+src/EmailNotificationListener.php
+src/SlackNotificationListener.php
