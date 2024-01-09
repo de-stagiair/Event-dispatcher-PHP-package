@@ -1,0 +1,19 @@
+{
+    "name": "stagiair/event-dispatcher",
+    "description": "An event-dispatcher in development ",
+    "autoload": {
+        "psr-4": {
+            "Stagiair\\EventDispatcher\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vadinho bruno",
+            "email": "vadinho.bruno@maxserv.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    },
+    "license": "MIT"
+}
