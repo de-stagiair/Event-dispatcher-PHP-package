@@ -3,4 +3,3 @@
 index.php
 src/EmailNotificationListener.php
 src/SlackNotificationListener.php
-src/ListenerInterface.php
